@@ -1,4 +1,3 @@
-```python
 # app.py - Générateur de leads : Google Places + surfaces via Overpass
 
 import json
@@ -164,4 +163,3 @@ def main():
 
 if __name__=='__main__':
     main()
-```
